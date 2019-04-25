@@ -16,10 +16,15 @@ Basic firmware with new IF (FF FF) and support for 8DOF
 
 release date: 4/25/2019: 
   -Soft start of the platform from Park position
+  
   -Automatic Park when motion software stops sending motion data.
+  
   -Optional Button to switch between Park and Standby positions of the platform (configurable by parameters in LCD menu)
+  
   -Emergency Switch that disables drives
+  
   -Force Offline switch if you need to pause motion and park the platform without closing the motion software or game.
+  
   -Slow movements manual test buttons (from the AMC panel)
 
 
