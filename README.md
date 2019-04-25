@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=13y8JGdSdX0
 ### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1b_8DOF_Soft_pos4 ======= 
 ```
 release date: 12/10/2018: 
-Basic firmware with new IF (FF FF) and support for 8DOF
+Basic firmware with new ID (FF FF) and support for 8DOF
 ```
 
 
