@@ -27,6 +27,7 @@ release date: 4/25/2019:
 
 
 ## Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL.hex release:
+```
 Auto park/standby guide
 https://www.youtube.com/watch?v=F8TXNYhdhe0
 Demo of emergency switch
@@ -37,3 +38,4 @@ Default parameters for LCD menu
 https://www.youtube.com/watch?v=UWvaFFCBdIk
 Manual buttons movement
 https://www.youtube.com/watch?v=p4ygx0DuxDU
+```
