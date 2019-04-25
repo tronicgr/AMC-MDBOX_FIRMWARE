@@ -16,3 +16,10 @@ release date: 4/25/2019
 -Emergency Switch that disables drives
 -Force Offline switch if you need to pause motion and park the platform without closing the motion software or game.
 -Slow movements manual test buttons (from the AMC panel)
+
+Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL.hex release:
+https://www.youtube.com/watch?v=F8TXNYhdhe0
+https://www.youtube.com/watch?v=68zQTiNyDcU
+https://www.youtube.com/watch?v=tnvYDmFxvb0
+https://www.youtube.com/watch?v=UWvaFFCBdIk
+https://www.youtube.com/watch?v=p4ygx0DuxDU
