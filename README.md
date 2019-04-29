@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=p4ygx0DuxDU
 release date: 4/29/2019   (Rev1f)
 -Added parameters access via terminal
 -Added restoring default parameters by holding Menu Exit button while pressing Reset button
-  A message should appear on the screen that "default parameters are restored", you can release the Menu exis button then.
+  A message should appear on the screen that "default parameters are restored", you can release the Menu Exit button then.
 ```
 
 ### The parameters can be changed via terminal (250000 bps)
