@@ -12,7 +12,7 @@ Basic firmware with new ID (FF FF) and support for 8DOF
 ```
 
 
-### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL.hex ======= 
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL ======= 
 
 ```
 release date: 4/25/2019: 
@@ -26,7 +26,7 @@ release date: 4/25/2019:
 
 
 
-## Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL.hex release:
+## Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL release:
 Auto park/standby guide
 https://www.youtube.com/watch?v=F8TXNYhdhe0
 
@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=p4ygx0DuxDU
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/AMC-MDBOX%20park-standby-emergency-force-offline%20diagram.jpg)
 
 
-### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1f_8DOF_Park_4DOF_TL.hex ======= 
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1f_8DOF_Park_4DOF_TL ======= 
 ```
 release date: 4/29/2019   (Rev1f)
 -Added parameters access via terminal
