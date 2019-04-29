@@ -5,14 +5,14 @@ Firmware releases for AMC-MDBOX
 https://www.youtube.com/watch?v=13y8JGdSdX0
 
 
-## ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1b_8DOF_Soft_pos4 ======= 
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1b_8DOF_Soft_pos4 ======= 
 ```
 release date: 12/10/2018: 
 Basic firmware with new ID (FF FF) and support for 8DOF
 ```
 
 
-## ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL ======= 
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL ======= 
 
 ```
 release date: 4/25/2019: 
@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=p4ygx0DuxDU
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/AMC-MDBOX%20park-standby-emergency-force-offline%20diagram.jpg)
 
 
-## ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1f_8DOF_Park_4DOF_TL ======= 
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1f_8DOF_Park_4DOF_TL ======= 
 ```
 release date: 4/29/2019   (Rev1f)
 -Added parameters access via terminal
