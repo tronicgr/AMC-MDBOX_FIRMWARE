@@ -43,4 +43,4 @@ Manual buttons movement
 https://www.youtube.com/watch?v=p4ygx0DuxDU
 
 ##Wiring Diagram for emergency buttons and switches
-![Alt Text](AMC-MDBOX park-standby-emergency-force-offline diagram.jpg)
+![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/AMC-MDBOX%20park-standby-emergency-force-offline%20diagram.jpg)
