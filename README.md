@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=p4ygx0DuxDU
 
 ### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1f_8DOF_Park_4DOF_TL ======= 
 ```
-release date: 4/29/2019   (Rev1f)
+release date: 4/30/2019   (Rev1f)
 -Added parameters access via terminal
 -Added restoring default parameters by holding Menu Exit button while pressing Reset button
   A message should appear on the screen that "default parameters are restored", 
