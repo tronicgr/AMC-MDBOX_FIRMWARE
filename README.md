@@ -95,7 +95,7 @@ All values are characters!
 Here is a list of the default parameters values you should get when you issue the CMD44 command
 (if not like this, you may reset the default parameters via button combination)
 
-01.Motornumber 2-8: 4
+01.Motornumber 2-8: 6
 02.Dataformat 1-2: 1
 03.Print Feedback 1-2: 1
 04.Park Position 0-254: 1
