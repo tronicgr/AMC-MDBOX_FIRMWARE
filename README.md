@@ -58,7 +58,7 @@ release date: 4/30/2019   (Rev1f)
 ```
 ### Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1f_8DOF_Park_4DOF_TL release:
 
-Demostration of Auto park/standby with no external switches or buttons.
+Demostration of Auto park/standby: 
 https://www.youtube.com/watch?v=yZuzgQdwbfI
 
 
