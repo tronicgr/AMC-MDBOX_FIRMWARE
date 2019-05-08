@@ -56,6 +56,11 @@ release date: 4/30/2019   (Rev1f)
   A message should appear on the screen that "default parameters are restored", 
   you can release the Menu Exit button then.
 ```
+### Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1f_8DOF_Park_4DOF_TL release:
+
+Demostration of Auto park/standby with no external switches or buttons.
+https://www.youtube.com/watch?v=yZuzgQdwbfI
+
 
 ### The parameters can be changed via terminal (250000 bps)
 
