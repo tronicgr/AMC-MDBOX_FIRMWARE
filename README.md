@@ -5,6 +5,10 @@ Firmware releases for AMC-MDBOX
 https://www.youtube.com/watch?v=13y8JGdSdX0
 
 
+If you get a message that it exceeds the buffer size, increase the flash size to 128k in the options:
+![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Flash_size_128k.jpg)
+
+
 ### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1b_8DOF_Soft_pos4 ======= 
 ```
 release date: 12/10/2018: 
