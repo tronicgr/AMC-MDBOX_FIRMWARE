@@ -131,6 +131,11 @@ release date: 5/8/2019   (Rev1g)
 - Added wiring diagram for the indication LEDs, see below.
 ```
 
+### Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1g_8DOF_Park_4DOF_TL release:
+
+Demostration of Indicator LEDs: 
+https://www.youtube.com/watch?v=eGugrD_hL6U
+
 ### Wiring Diagram for Indication LEDs 
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Indication%20LEDs%20for%20AMC-MDBOX.jpg)
 
