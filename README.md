@@ -119,3 +119,26 @@ Here is a list of the default parameters values you should get when you issue th
 13.Actuator Limits 0-50%: 1
 14.Kill switch mode 1-2: 1
 ```
+
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1g_8DOF_Park_4DOF_TL ======= 
+```
+release date: 5/8/2019   (Rev1g)
+-Added indication LEDs outputs for the various states of the controller
+  Green = Motor online
+  Yellow = Standby
+  Yellow+Red = Park
+  Red = Forced Offline
+- Added wiring diagram for the indication LEDs, see below.
+```
+
+### Wiring Diagram for Indication LEDs 
+![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Indication%20LEDs%20for%20AMC-MDBOX.jpg)
+
+### The mosfet driver for the 12v indication LEDs can be found here:
+https://www.amazon.com/dp/B07NWD8W26/
+```
+Search for: "Anmbest 5PCS DC 5V-36V Dual High-Power MOSFET Drive Module 0-20KHz PWM Brightness Control"
+```
+
+
+
