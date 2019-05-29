@@ -9,47 +9,30 @@ If you get a message that it exceeds the buffer size, increase the flash size to
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Flash_size_128k.jpg)
 
 
-### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1b_8DOF_Soft_pos4 ======= 
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1g_8DOF_Park_4DOF_TL ======= 
 ```
-release date: 12/10/2018: 
-Basic firmware with new ID (FF FF) and support for 8DOF
-```
-
-
-### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL ======= 
-
-```
-release date: 4/25/2019: 
-  -Soft start of the platform from Park position
-  -Automatic Park when motion software stops sending motion data.
-  -Optional Button to switch between Park and Standby positions of the platform 
-    (configurable by parameters in LCD menu)
-  -Emergency Switch that disables drives
-  -Force Offline switch if you need to pause motion and park the platform 
-    without closing the motion software or game.
-  -Slow movements manual test buttons (from the AMC panel)
+release date: 5/8/2019   (Rev1g)
+-Added indication LEDs outputs for the various states of the controller
+  Green = Motor online
+  Yellow = Standby
+  Yellow+Red = Park
+  Red = Forced Offline
+- Added wiring diagram for the indication LEDs, see below.
 ```
 
+### Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1g_8DOF_Park_4DOF_TL release:
 
+Demostration of Indicator LEDs: 
+https://www.youtube.com/watch?v=kvUKilD3APA
 
-### Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL release:
-Auto park/standby guide
-https://www.youtube.com/watch?v=F8TXNYhdhe0
+### Wiring Diagram for Indication LEDs 
+![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Indication%20LEDs%20for%20AMC-MDBOX.jpg)
 
-Demo of emergency switch
-https://www.youtube.com/watch?v=68zQTiNyDcU
-
-Using switch on S1 to Force OFFLINE mode
-https://www.youtube.com/watch?v=tnvYDmFxvb0
-
-Default parameters for LCD menu
-https://www.youtube.com/watch?v=UWvaFFCBdIk
-
-Manual buttons movement
-https://www.youtube.com/watch?v=p4ygx0DuxDU
-
-### Wiring Diagram for emergency buttons and switches
-![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/AMC-MDBOX%20park-standby-emergency-force-offline%20diagram.jpg)
+### The mosfet driver for the 12v indication LEDs can be found here:
+https://www.amazon.com/dp/B07NWD8W26/
+```
+Search for: "Anmbest 5PCS DC 5V-36V Dual High-Power MOSFET Drive Module 0-20KHz PWM Brightness Control"
+```
 
 
 ### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1f_8DOF_Park_4DOF_TL ======= 
@@ -120,30 +103,54 @@ Here is a list of the default parameters values you should get when you issue th
 14.Kill switch mode 1-2: 1
 ```
 
-### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1g_8DOF_Park_4DOF_TL ======= 
+
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL ======= 
+
 ```
-release date: 5/8/2019   (Rev1g)
--Added indication LEDs outputs for the various states of the controller
-  Green = Motor online
-  Yellow = Standby
-  Yellow+Red = Park
-  Red = Forced Offline
-- Added wiring diagram for the indication LEDs, see below.
+release date: 4/25/2019: 
+  -Soft start of the platform from Park position
+  -Automatic Park when motion software stops sending motion data.
+  -Optional Button to switch between Park and Standby positions of the platform 
+    (configurable by parameters in LCD menu)
+  -Emergency Switch that disables drives
+  -Force Offline switch if you need to pause motion and park the platform 
+    without closing the motion software or game.
+  -Slow movements manual test buttons (from the AMC panel)
 ```
 
-### Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1g_8DOF_Park_4DOF_TL release:
 
-Demostration of Indicator LEDs: 
-https://www.youtube.com/watch?v=kvUKilD3APA
 
-### Wiring Diagram for Indication LEDs 
-![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Indication%20LEDs%20for%20AMC-MDBOX.jpg)
+### Videos related to enc_6dof_AMC-mdbox_SERVO_1.4_rev1e_8DOF_Park_4DOF_TL release:
+Auto park/standby guide
+https://www.youtube.com/watch?v=F8TXNYhdhe0
 
-### The mosfet driver for the 12v indication LEDs can be found here:
-https://www.amazon.com/dp/B07NWD8W26/
+Demo of emergency switch
+https://www.youtube.com/watch?v=68zQTiNyDcU
+
+Using switch on S1 to Force OFFLINE mode
+https://www.youtube.com/watch?v=tnvYDmFxvb0
+
+Default parameters for LCD menu
+https://www.youtube.com/watch?v=UWvaFFCBdIk
+
+Manual buttons movement
+https://www.youtube.com/watch?v=p4ygx0DuxDU
+
+### Wiring Diagram for emergency buttons and switches
+![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/AMC-MDBOX%20park-standby-emergency-force-offline%20diagram.jpg)
+
+
+
+
+
+
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1b_8DOF_Soft_pos4 ======= 
 ```
-Search for: "Anmbest 5PCS DC 5V-36V Dual High-Power MOSFET Drive Module 0-20KHz PWM Brightness Control"
+release date: 12/10/2018: 
+Basic firmware with new ID (FF FF) and support for 8DOF
 ```
+
+
 
 
 
