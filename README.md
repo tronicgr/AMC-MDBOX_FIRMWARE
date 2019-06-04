@@ -8,6 +8,12 @@ https://www.youtube.com/watch?v=13y8JGdSdX0
 If you get a message that it exceeds the buffer size, increase the flash size to 128k in the options:
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Flash_size_128k.jpg)
 
+### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1h_8DOF_Park_4DOF_TL ======= 
+```
+release date: 6/4/2019   (Rev1h)
+  -Fixed delayed start on power on for 4DOF + TL to allow slow movement of traction loss actuator to middle position
+  
+```
 
 ### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1g_8DOF_Park_4DOF_TL ======= 
 ```
