@@ -9,10 +9,10 @@ If you get a message that it exceeds the buffer size, increase the flash size to
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Flash_size_128k.jpg)
 
 
-### You can use the AMC config tool to access and modify the parameters in the AMC-NANO:
-https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool.zip
+### You can use the AMC config tool to access and modify the parameters in the AMC-MDBOX:
+https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_Config_Tool.zip
 
-![Alt Text](https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_config_NANO.jpg)
+![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_config_MDBOX.jpg)
 
 
 ### ======= enc_6dof_AMC-mdbox_2_00 =======
