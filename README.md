@@ -8,6 +8,19 @@ https://www.youtube.com/watch?v=13y8JGdSdX0
 If you get a message that it exceeds the buffer size, increase the flash size to 128k in the options:
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Flash_size_128k.jpg)
 
+
+### You can use the AMC config tool to access and modify the parameters in the AMC-NANO:
+https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool.zip
+
+![Alt Text](https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_config_NANO.jpg)
+
+
+### ======= enc_6dof_AMC-mdbox_2_00 =======
+```
+release date: 06/17/2019: 
+-Provides access to parameters via AMC Config utility
+```
+
 ### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1h_8DOF_Park_4DOF_TL ======= 
 ```
 release date: 6/4/2019   (Rev1h)
@@ -39,6 +52,7 @@ https://www.amazon.com/dp/B07NWD8W26/
 ```
 Search for: "Anmbest 5PCS DC 5V-36V Dual High-Power MOSFET Drive Module 0-20KHz PWM Brightness Control"
 ```
+
 
 
 ### ======= enc_6dof_AMC-mdbox_SERVO_1.4_rev1f_8DOF_Park_4DOF_TL ======= 
