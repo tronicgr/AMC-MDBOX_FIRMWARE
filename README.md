@@ -75,9 +75,7 @@ https://www.youtube.com/watch?v=yZuzgQdwbfI
 
 Command Number | Display Parameter | Save Parameter
 ------------| ------------ | -------------
-CMD01 | Motornumber:| spv012-spv018
-CMD02 | Dataformat: | spv021-spv022
-CMD03 |Print Feedback: | spv031-spv032
+CMD01 |Motornumber: | spv012-spv018
 CMD04 |Park Position: | spv04001-spv04254
 CMD05 |Park Move Speed: | spv05001-spv05100
 CMD06 |Park Move Timeout: | spv0601-spv0690
@@ -85,12 +83,11 @@ CMD07 |Standby Position: | spv07010-spv07245
 CMD08 |Standby Speed: | spv08000-spv08100
 CMD09 |Standby Timeout: | spv0901-spv0990
 CMD10 |Disable park type: | spv111-spv114
-CMD11 |Output type: | spv111-spv114
-CMD12 |Output mode: | spv121-spv124
 CMD13 |Actuator Limits: | spv1300-spv1350
 CMD14 |Kill switch mode: | spv141-spv142
 CMD44 |Display all parameters 
 CMD45 |Print this help page 
+CMD55 |Print delimited parameter list for simtools
 spv45 |Saves all parameters at once
 RQM |  Displays model,revision and number of motors
 Park | Parks the actuators if in standby mode
@@ -107,9 +104,7 @@ All values are characters!
 Here is a list of the default parameters values you should get when you issue the CMD44 command
 (if not like this, you may reset the default parameters via button combination)
 
-01.Motornumber 2-8: 6
-02.Dataformat 1-2: 1
-03.Print Feedback 1-2: 1
+01.Motornumber 2-8: 4
 04.Park Position 0-254: 1
 05.Park_Move_Speed 1-100%: 11
 06.Park_Move_Timeout 1-90: 5
@@ -117,10 +112,12 @@ Here is a list of the default parameters values you should get when you issue th
 08.Standby Speed 0-100%: 24
 09.Standby Timeout 1-90: 5
 10.Disable park type 1-4: 1
-11.Output type 1-4: 4
-12.Output mode 1-4: 3
 13.Actuator Limits 0-50%: 1
 14.Kill switch mode 1-2: 1
+
+CMD55 returns the following numeric values separated by colon ( : ) punctuation mark:
+"data:" <Motornumber> ":" <Parkposition> ":" <Parkmovespeed> ":" <Parkmovetimeout> ":" <StandbyPosition> ":" <StandbySpeed> ":"<StandbyTimeout> ":" <Disableparktype> ":" <ActuatorLimits> ":" <Killswitchmode> ":" <Firmwareversion> ":" <AMCModel>
+
 ```
 
 
