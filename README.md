@@ -15,6 +15,12 @@ https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_pl
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_config_MDBOX.jpg)
 
 
+### ======= enc_6dof_AMC-mdbox_2_01 =======
+```
+release date: 08/01/2019: 
+-Small bugfix where the the stroke position was set to 100% with Emergency Switch activated on power on.
+```
+
 ### ======= enc_6dof_AMC-mdbox_2_00 =======
 ```
 release date: 06/17/2019: 
