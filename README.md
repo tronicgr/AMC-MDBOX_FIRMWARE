@@ -96,7 +96,7 @@ CMD06 |Park Move Timeout: | spv0601-spv0690
 CMD07 |Standby Position: | spv07010-spv07245
 CMD08 |Standby Speed: | spv08000-spv08100
 CMD09 |Standby Timeout: | spv0901-spv0990
-CMD10 |Disable park type: | spv111-spv114
+CMD10 |Disable park type: | spv111-spv115
 CMD13 |Actuator Limits: | spv1300-spv1350
 CMD14 |Kill switch mode: | spv141-spv142
 CMD44 |Display all parameters 
@@ -125,7 +125,7 @@ Here is a list of the default parameters values you should get when you issue th
 07.Standby Position 10-245: 127
 08.Standby Speed 0-100%: 24
 09.Standby Timeout 1-90: 5
-10.Disable park type 1-4: 1
+10.Disable park type 1-5: 1
 13.Actuator Limits 0-50%: 1
 14.Kill switch mode 1-2: 1
 
