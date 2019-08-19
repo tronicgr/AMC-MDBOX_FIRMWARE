@@ -19,7 +19,8 @@ https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_pl
 ```
 release date: 08/19/2019: 
 -Added new disable park option for 6DOF + rotation type platforms
--Updated the AMC-Config tool to support this addition disable park option as well (AMC tool v1.1)
+-Fixed a missing link for saving permantly remotely parameters via AMC Config Tool.
+-Updated the AMC Config Tool to support this addition disable park option as well (AMC tool v1.1)
 ```
 
 ### ======= enc_6dof_AMC-mdbox_2_01 =======
