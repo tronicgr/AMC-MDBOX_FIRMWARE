@@ -14,6 +14,9 @@ https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_pl
 
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_config_MDBOX.jpg)
 
+### Simtools Manual for 4DOF (+TL) platforms v5.1   (Contact me for full version)
+https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/AMC-MDBOX%204DOF%20manual%20v5.1%20short.pdf
+
 
 ### ======= enc_6dof_AMC-mdbox_2_02 =======
 ```
