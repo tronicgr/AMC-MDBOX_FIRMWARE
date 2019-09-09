@@ -10,7 +10,7 @@ If you get a message that it exceeds the buffer size, increase the flash size to
 
 
 ### You can use the AMC config tool to access and modify the parameters in the AMC-MDBOX:
-https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_Config_Tool.zip
+https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_Config_Tool_1_1.zip
 
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_config_MDBOX.jpg)
 
