@@ -6,6 +6,6 @@ From the dropdown menu select "MDBOX"
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_interface_plugin_MDBOX.jpg)
 
 ### You can use the AMC config tool to access and modify the parameters in the AMC-MDBOX:
-https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_Config_Tool.zip
+https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_Config_Tool_1_1.zip
 
 ![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Simtools_interface_plugin/AMC_config_MDBOX.jpg)
