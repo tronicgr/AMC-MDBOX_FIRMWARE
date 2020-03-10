@@ -1,4 +1,4 @@
-Beta versions. Try with care.
+Beta versions. 
 
 --- enc_6dof_AMC-mdbox_2_03_beta_spike3 ---
 
@@ -9,6 +9,7 @@ Beta versions. Try with care.
 - 4. Fixes the transition to online motion data if the Force-Offline switch is used, avoiding jumps or jolts in the motion.
 - 5. Fixed the position seek during spike filtering to to a range instead a point to allow catching up to real time motion data immediately after a crash.
 - 6. Added Range parameter for the Spike Filter to better fine tune for lower values of the spike filter value.
+- 7. The RED LED will light steady during spike filter being engaged and will revert to GREEN LED when it catches up to live data.
 
 This new Spike Filter works by detecting spikes in position data larger that the defined level (most likely crashes) and it will automatically activate the Force Offline mode, that places the actuators in seek position mode until all motors catch up with live motion data. So for the duration of the crash the motors will avoid doing any intense jolts and most likely the motion will come back on when the vehicle is standing still. It should work wonders in long duration crashes like when you have rollover down a bank for example...
 
