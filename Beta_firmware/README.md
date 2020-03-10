@@ -1,6 +1,6 @@
 Beta versions. Try with care.
 
---- enc_6dof_AMC-mdbox_2_03_beta_spike1 ---
+--- enc_6dof_AMC-mdbox_2_03_beta_spike3 ---
 
 -Added spike filter that can be adjusted by two parameters:
 - 1. Level: it defines the distance in data points that the input position have to exceed for the spike filter to kick in. This is absolute 16bit value 0-65535, default value 32767. If the spike filter kicks in too often, increase this value.
@@ -11,3 +11,5 @@ Beta versions. Try with care.
 - 6. Added Range parameter for the Spike Filter to better fine tune for lower values of the spike filter value.
 
 This new Spike Filter works by detecting spikes in position data larger that the defined level (most likely crashes) and it will automatically activate the Force Offline mode, that places the actuators in seek position mode until all motors catch up with live motion data. So for the duration of the crash the motors will avoid doing any intense jolts and most likely the motion will come back on when the vehicle is standing still. It should work wonders in long duration crashes like when you have rollover down a bank for example...
+
+To enable the indication LEDs you need to set DIP switch #2 to ON position. 
