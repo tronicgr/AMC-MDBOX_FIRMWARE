@@ -5,7 +5,7 @@ Beta versions.
 
 - Fixed the disable Auto park issue where all actuators where parking on Force Offline switch even the TL and Surge ones.
 - Fixed issue where the Disable autopark parameter was reverting to default value.
-- Fixed issue where the online motion where not restoring from Force Offline mode when you were modifing parameters. The changes to the parameters are temporary now and you can save them as normal after you disconnect from Simtools ot other motion software.
+- Fixed issue where the online motion where not restoring from Force Offline mode when you were modifying parameters. The changes to the parameters are temporary now and you can save them as normal after you disconnect from Simtools ot other motion software.
 - Changed the order of appearance for the Spike Filter "Range" and "Level" so you won't have to go back to modify the level twice.
 
 See detailed info about the changes on the video here: https://www.youtube.com/watch?v=gPdzp0ytFX8
