@@ -1,7 +1,7 @@
 Beta versions. 
 
 ---------------------------------------------------------------------------------------------------------------------
-enc_6dof_AMC-mdbox_2_03_beta_spike5
+--- enc_6dof_AMC-mdbox_2_03_beta_spike5 ---
 
 - Fixed the disable Auto park issue where all actuators where parking on Force Offline switch even the TL and Surge ones.
 - Fixed issue where the Disable autopark parameter was reverting to default value.
