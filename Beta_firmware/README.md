@@ -1,6 +1,23 @@
 Beta versions. 
 
 ---------------------------------------------------------------------------------------------------------------------
+--- enc_6dof_AMC-mdbox_2_03_beta_spike6 ---
+
+Beta release for AMC config tool v1.2 and AMC-mdbox firmware v2.03 beta spike6:
+
+- Download it and try it, but not before you update to the newest v2.03 beta spike6 firmware. 
+
+https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Beta_firmware/AMC_Config_tool_1_2.zip
+https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Beta_firmware/enc_6dof_AMC-mdbox_2_03_beta_spike6.zip
+
+- See how it operates here: https://www.youtube.com/watch?v=EQ3INaih13k
+
+![Alt Text](https://github.com/tronicgr/AMC-MDBOX_FIRMWARE/blob/master/Beta_firmware/AMC-Config-tool-v1_2_MDBX.jpg)
+
+- fixed issue with jump occuring if Force offline switch is used while online. The actuators now return to online position smoothly.
+
+
+---------------------------------------------------------------------------------------------------------------------
 --- enc_6dof_AMC-mdbox_2_03_beta_spike5 ---
 
 - Fixed the disable Auto park issue where all actuators where parking on Force Offline switch even the TL and Surge ones.
